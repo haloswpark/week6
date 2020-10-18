@@ -1,0 +1,114 @@
+.body {
+    position: relative;
+    width: 1920px;
+    height: 1080px;
+    background-color: black;
+}
+
+.box1 {
+    position: absolute;
+    width: 634px;
+    height: 72px;
+    left: 101px;
+    top: 260px;
+    
+    background-color: #C4C4C4;
+    transition: all 0.5s ease-in-out;
+    }
+
+/* Rectangle 24 */
+
+.box2 {
+    position: absolute;
+    width: 407px;
+    height: 72px;
+    left: 328px;
+    top: 356px;
+
+    background-color: #80F5E2;
+}
+
+
+.box3{
+    position: absolute;
+    width: 350px;
+    height: 72px;
+    left: 101px;
+    top: 452px;
+
+    background: #C4C4C4;
+}
+
+
+.box4{
+    position: absolute;
+    width: 260px;
+    height: 72px;
+    left: 475px;
+    top: 452px;
+
+    background: #C4C4C4;
+}
+
+.box5{
+    position: absolute;
+    width: 254px;
+    height: 72px;
+    left: 101px;
+    top: 548px;
+
+    background: #3F00FF;
+}
+
+.box6{
+    position: absolute;
+    width: 254px;
+    height: 72px;
+    left: 379px;
+    top: 548px;
+
+    background: #C4C4C4;
+}
+
+
+.box7{
+    position: absolute;
+    width: 203px;
+    height: 72px;
+    left: 101px;
+    top: 356px;
+    
+    background: #C4C4C4;    
+}
+
+.box8{
+    position: absolute;
+    width: 78px;
+    height: 72px;
+    left: 657px;
+    top: 548px;
+    
+    background: #F3F580;
+}
+
+.carousel1{
+    position: absolute;
+    width: 2031.32px;
+    height: 88px;
+    left: -54.51px;
+    top: 867px;
+
+    background: #DBDBDB;
+    transform: rotate(0.97deg);
+}
+
+.carousel2{
+    position: absolute;
+    width: 2031.32px;
+    height: 88px;
+    left: -13px;
+    top: 1009.53px;
+
+    background: #B4B4B4;
+    transform: rotate(-8.58deg);
+}
